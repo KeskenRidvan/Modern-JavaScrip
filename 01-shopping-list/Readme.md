@@ -4,6 +4,8 @@
 
 <hr>
 
+## You can access the published version of the site from the link. [shopping-list](https://rk-shoppinglist.netlify.app/)
+
 ### :grey_question: What you can do in this app:
 
 #### - Add data.
