@@ -28,8 +28,4 @@
 
 ### :camera: Screenshots of the project:
 
-![image-1](images/screenshots/image-1.png)
-![image-2](images/screenshots/image-2.png)
-![image-3](images/screenshots/image-3.png)
-![image-4](images/screenshots/image-4.png)
-![image-5](images/screenshots/image-5.png)
+![image-1](images/screenshots/shoppingList.gif)
